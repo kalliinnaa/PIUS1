@@ -1,0 +1,18 @@
+{
+    "name": "miet/u8200048-lab1",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "app/Classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alina Karpova",
+            "email": "kalina2002.2002.2002@gmail.com"
+        }
+    ],
+
+    "require": {
+        "symfony/validator": "^6.2"
+    }
+}
